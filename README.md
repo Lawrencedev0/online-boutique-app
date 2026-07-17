@@ -180,8 +180,8 @@ This repository structure has been carefully prepared for advanced DevOps practi
 
 This GitOps repository works hand-in-hand with our infrastructure repository to deliver a fully automated end-to-end cloud platform:
 
-*   🚀 **Gitops Repo:** https://github.com/Roshan0102/online-boutique-gitops/
-*   🏗️ **Infrastructure Repo:** [Roshan0102/eks-platform-infra](https://github.com/Roshan0102/eks-platform-infra)
+*   🚀 **Gitops Repo:** https://github.com/Lawrencedev0/online-boutique-gitops/
+*   🏗️ **Infrastructure Repo:** [Lawrencedev0/eks-platform-infra](https://github.com/Lawrencedev0/eks-platform-infra)
 
 ## 🛠️ How it Works
 
